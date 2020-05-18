@@ -60,6 +60,6 @@ education:
 projects:
   - name: Stickee
     desc: To-Do app that uses the Eisenhower Decision Matrix to determine urgency of tasks.
-    url: https://stickee.uc.r.appspot.com/
+    url: https://getstickee.herokuapp.com/
 
 ---
