@@ -6,7 +6,7 @@ fullname: David A. Billé
 jobtitle: Full Stack Javascript Developer
 
 location: Austin, TX
-blurb: "The secret to living is giving"
+blurb: "Work hard, stay humble"
 
 # first item must be C# or .NET or C#/.NET
 # the first 3 will display on the card display, but list as many as you want, they will be visible on your hire page
